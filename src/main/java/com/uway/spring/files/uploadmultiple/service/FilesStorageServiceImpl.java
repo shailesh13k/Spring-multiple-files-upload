@@ -1,4 +1,4 @@
-package com.bezkoder.spring.files.uploadmultiple.service;
+package com.uway.spring.files.uploadmultiple.service;
 
 import java.io.IOException;
 import java.net.MalformedURLException;

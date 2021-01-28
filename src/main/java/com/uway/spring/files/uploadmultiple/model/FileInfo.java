@@ -1,4 +1,4 @@
-package com.bezkoder.spring.files.uploadmultiple.model;
+package com.uway.spring.files.uploadmultiple.model;
 
 public class FileInfo {
   private String name;

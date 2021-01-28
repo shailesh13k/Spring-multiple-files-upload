@@ -1,4 +1,4 @@
-package com.bezkoder.spring.files.uploadmultiple.message;
+package com.uway.spring.files.uploadmultiple.message;
 
 public class ResponseMessage {
   private String message;

@@ -1,9 +1,9 @@
-package com.bezkoder.spring.files.uploadmultiple.exception;
+package com.uway.spring.files.uploadmultiple.exception;
 
 import org.springframework.web.multipart.MaxUploadSizeExceededException;
 import org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExceptionHandler;
 
-import com.bezkoder.spring.files.uploadmultiple.message.ResponseMessage;
+import com.uway.spring.files.uploadmultiple.message.ResponseMessage;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
